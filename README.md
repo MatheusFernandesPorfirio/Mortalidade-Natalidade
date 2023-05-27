@@ -1,7 +1,1 @@
-echo "# Mortalidade-Natalidade" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/MatheusFernandesPorfirio/Mortalidade-Natalidade.git
-git push -u origin main
+Este projeto é uma análise exploratória sobre os dados de Mortalidade e Natalidade no Brasil, ao longo de 5 anos, entre 2016 a 2020.
